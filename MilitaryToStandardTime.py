@@ -21,5 +21,5 @@ def military_to_standard(hours, mins):
     else:
         return f"{hours}:{mins}AM"
 
-print(military_to_standard(19, 30))
+print(military_to_standard(20, 30))
 print(military_to_standard(6, 59))
